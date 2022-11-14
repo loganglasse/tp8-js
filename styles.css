@@ -12,11 +12,18 @@
 
 .card {
   position: relative;
-  width: 20vw;
-  height 20vw;
+  width: 18vw;
+  height: 18vw;
+  margin: 1vw;
   float: left;
   border: 1vw solid #fff;
   background-color: #ccc;
+  box-shadow: 0px 7px 8px #999;
+  border-radius: 1vw;
+}
+
+.card.clicked {
+  border: 1vw solid #333;
 }
 
 .card div {
@@ -62,7 +69,11 @@
   background-size: cover;
 }
 
-.card .matched div {
+.card.matched {
+  box-shadow: none;
+}
+
+.card.matched div {
   display: none;
 }
 
