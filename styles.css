@@ -51,3 +51,8 @@
   background-image: url(images/card2.jpg);
   background-size: cover;
 }
+
+.card .matched div {
+  display: none;
+}
+
