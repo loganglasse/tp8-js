@@ -50,22 +50,22 @@
 }
 
 .pic1 .cardFront {
-  background-image: url(images/card1.jpg);
+  background-image: url(cards/card1.jpg);
   background-size: cover;
 }
 
 .pic2 .cardFront {
-  background-image: url(images/card2.jpg);
+  background-image: url(cards/card2.jpg);
   background-size: cover;
 }
 
 .pic3 .cardFront {
-  background-image: url(images/card3.jpg);
+  background-image: url(cards/card3.jpg);
   background-size: cover;
 }
 
 .pic4 .cardFront {
-  background-image: url(images/card4.jpg);
+  background-image: url(cards/card4.jpg);
   background-size: cover;
 }
 
