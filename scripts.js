@@ -1,1 +1,0 @@
-/* javascript for card game tp8 */

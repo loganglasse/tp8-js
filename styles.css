@@ -34,6 +34,14 @@
   display: none;
 }
 
+.clicked .cardBack {
+  display: none;
+}
+
+.clicked .cardFront {
+  display: block;
+}
+
 .pic1 .cardFront {
   background-image: url(images/card1.jpg);
   background-size: cover;
